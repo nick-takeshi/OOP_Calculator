@@ -1,0 +1,8 @@
+D:\C#\ConsoleApp1\OOP_Calculator\bin\Debug\OOP_Calculator.exe.config
+D:\C#\ConsoleApp1\OOP_Calculator\bin\Debug\OOP_Calculator.exe
+D:\C#\ConsoleApp1\OOP_Calculator\bin\Debug\OOP_Calculator.pdb
+D:\C#\ConsoleApp1\OOP_Calculator\obj\Debug\OOP_Calculator.csproj.AssemblyReference.cache
+D:\C#\ConsoleApp1\OOP_Calculator\obj\Debug\OOP_Calculator.csproj.SuggestedBindingRedirects.cache
+D:\C#\ConsoleApp1\OOP_Calculator\obj\Debug\OOP_Calculator.csproj.CoreCompileInputs.cache
+D:\C#\ConsoleApp1\OOP_Calculator\obj\Debug\OOP_Calculator.exe
+D:\C#\ConsoleApp1\OOP_Calculator\obj\Debug\OOP_Calculator.pdb
